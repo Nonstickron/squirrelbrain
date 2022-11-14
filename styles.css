@@ -6,20 +6,10 @@
 	height: 100vh;
 }
 
-.gradient_bg:hover{
+.gradient_bg:hover {
     -webkit-animation: gradient 15s ease infinite;
     animation: gradient 15s ease infinite;
  }
-
- h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
-}
-
-img {
-    display: block;
-    margin: auto;
-}
 
 @-webkit-keyframes gradient {
 	0% {
@@ -43,4 +33,14 @@ img {
 	100% {
 		background-position: 0% 50%;
 	}
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
