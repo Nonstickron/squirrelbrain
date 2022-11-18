@@ -44,3 +44,7 @@ img {
     display: block;
     margin: auto;
 }
+
+.heroimage {
+	border-radius: 10px;
+}
