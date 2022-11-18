@@ -51,6 +51,5 @@ h1 {
 
 nav {
 	display: inline;
-	padding-left: 5px;
-	padding-right: 5px;
+padding: 15px;
 }
