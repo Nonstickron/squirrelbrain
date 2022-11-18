@@ -35,10 +35,16 @@
 	}
 }
 
-.hero {
-	display: block;
+body {
 	margin-left: auto;
 	margin-right: auto;
+	max-width: 600px;
+	padding: 50px;
+}
+
+.heroimage {
+	display: block;
+	margin: auto;
 	border-radius: 20px;
 	background-color: chocolate;
 	border: 3px solid sandybrown;
