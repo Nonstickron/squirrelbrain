@@ -51,15 +51,14 @@ body {
 }
 
 .nav {
-	display: inline-block;
-	width: 520px;
+	display: block;
 	margin: auto;
 	text-align: center;
 }
 
 .button {
 	display: inline-block;
-	padding: 0px 10px;
+	padding: 0px 5px;
 }
 
 h1 {
