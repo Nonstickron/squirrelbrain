@@ -36,6 +36,9 @@
 }
 
 .hero {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	border-radius: 20px;
 	background-color: chocolate;
 	border: 3px solid sandybrown;
