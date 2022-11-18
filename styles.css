@@ -46,4 +46,6 @@ img {
     margin: auto;
 	border-radius: 20px;
 	background-color: chocolate;
+	border: 3px;
+	border-color: sandybrown;
 }
