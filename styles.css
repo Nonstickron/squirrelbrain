@@ -41,7 +41,7 @@ h1 {
 	color: sandybrown;
 }
 
-img {
+.hero {
     display: block;
     margin: auto;
 	border-radius: 20px;
