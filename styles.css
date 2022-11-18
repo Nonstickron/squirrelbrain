@@ -36,9 +36,6 @@
 }
 
 .hero {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 	border-radius: 20px;
 	background-color: chocolate;
 	border: 3px solid sandybrown;
@@ -53,4 +50,10 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 	color: sandybrown;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
