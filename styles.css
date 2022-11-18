@@ -54,9 +54,3 @@ h1 {
     text-align: center;
 	color: sandybrown;
 }
-
-.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
