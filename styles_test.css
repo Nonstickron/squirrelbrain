@@ -61,12 +61,18 @@ body {
 	padding: 0px 5px;
 }
 
+.insta-button {
+    background: url(./images/insta-icon.svg) no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
 .insta-button:hover {
-	url:(./images/insta-icon_over.svg)
+    background: url(./images/insta-icon_over.svg) no-repeat;
 }
 
 .insta-button:active {
-	url:(./images/insta-icon_down.svg)
+    background: url(./images/insta-icon_down.svg) no-repeat;
 }
 
 h1 {
