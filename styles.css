@@ -61,14 +61,6 @@ body {
 	padding: 0px 5px;
 }
 
-.insta-button:hover {
-	url:(./images/insta-icon_over.svg)
-}
-
-.insta-button:active {
-	url:(./images/insta-icon_down.svg)
-}
-
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
