@@ -54,6 +54,24 @@ body {
 	display: block;
 	margin: auto;
 	text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+.nav1 {
+    display: block;
+	margin: auto;
+	text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+.nav2 {
+    display: block;
+	margin: auto;
+	text-align: center;
+    height: 200px;
+    width: 200px;
 }
 
 .button {
@@ -73,6 +91,34 @@ body {
 
 .insta-button:active {
     background: url(./images/insta-icon_down.svg) no-repeat;
+}
+
+.behance-button {
+    background: url(./images/behance-icon.svg) no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.behance-button:hover {
+    background: url(./images/behance-icon_over.svg) no-repeat;
+}
+
+.behance-button:active {
+    background: url(./images/behance-icon_down.svg) no-repeat;
+}
+
+.linkedin-button {
+    background: url(./images/linkedin-icon.svg) no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.linkedin-button:hover {
+    background: url(./images/linkedin-icon_over.svg) no-repeat;
+}
+
+.linkedin-button:active {
+    background: url(./images/linkedin-icon_down.svg) no-repeat;
 }
 
 h1 {
